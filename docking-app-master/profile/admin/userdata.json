@@ -1,0 +1,33 @@
+{
+    "status":{
+            "hololens":{
+                "connected":"Yes",
+                "lastSyncOn":"7:00 PM 4/24/2020 CST",
+                "lastSyncStatus":"Success",
+                "workOrder":"Marquette Senior Design Test"
+            },
+                
+        "workOrder":{
+            "upcoming":"Senior Designed Presentation",
+            "lastComplete":"Marquette Senior Design Test",
+            "incomplete":"None"
+            },
+            
+        "cascade":{
+            "lastSyncName":"Cascade Sync Test",
+            "lastUploadOn":"9:02 PM 4/23/2020 CDT",
+            "lastUploadStatus":"Success"
+        }
+    },
+    
+    "workOrders": {
+        "numWorkOrders": 3,
+        
+        "order": {
+            "number": "754",
+            "location": "819 N 16th Street, Milwaukee WI",
+            "lastInspection": "10/16/2019",
+            "inspectBefore": "10/16/2020"
+        }
+    }
+}

@@ -1,0 +1,88 @@
+#page-title{
+    margin-top: 20px;
+    padding-left: 50px;
+    text-align: left;
+}
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 20px;
+    border: 1px solid black;
+    border-radius:6px !important;
+  }
+  
+  td, th {
+    border-left: 1px solid black;
+    border-top: 1px solid black;
+    text-align: center;
+    padding: 8px;
+  }
+
+  th {
+      border-top: none;
+  }
+
+  
+td:first-child, th:first-child {
+    border-left: none;
+}
+  
+
+tbody tr:nth-child(odd) {
+    background-color: #dddddd;
+  }
+
+#table-area {
+    margin-right:40px;
+}
+
+#workOrderButton {
+    background-color: #e25b2b;
+    color: white;
+    border: none;
+    width: 100%;
+}
+
+#modalButton {
+    background-color: #e25b2b;
+    color: white;
+    border: none;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#newWorkOrderForm {
+    margin: 20px;
+}
+
+.modal-header {
+    background-color:#373a47;
+    color: white;
+}
+
+.close {
+    opacity: 1;
+    color: white;
+    background-color: white;
+}
+
+#work-orders-remove-select {
+    text-align-last:center;
+    width: 100%;
+}
+
+h5 {
+    text-align: right;
+}
+
+option {
+    text-align: center;
+}
+
+#remove-work-order-fields {
+    margin: 20px;
+}

@@ -1,0 +1,7 @@
+{
+    "login":{
+        "bypass":false,
+        "username":["user", "russ", "admin", "testUser"],
+        "password":["password", "russ", "admin", "qwertyuiopasdfghjkl"]
+        }
+}

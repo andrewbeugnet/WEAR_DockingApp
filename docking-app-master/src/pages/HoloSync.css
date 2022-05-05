@@ -1,0 +1,22 @@
+.holo-sync-page{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    text-align: center;
+}
+
+h4 {
+    text-align: left;
+    margin-left: 160px;
+}
+
+.progress {
+    margin-left: 140px;
+    margin-right: 140px;
+}
+
+#steps {
+    margin-top: 20px;
+    margin-left: 160px;
+    margin-right: 160px;
+}

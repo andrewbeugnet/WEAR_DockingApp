@@ -1,0 +1,44 @@
+
+#status-page-title {
+    text-align: left;
+    padding-left: 50px;
+    margin-top: -25px;
+}
+
+#status-cards{
+   margin:20px;
+   
+}
+
+.list-group-item {
+    padding: 0px 10px !important;
+    margin-top: 2px;
+    line-height: 20px /* set to text height */
+}
+#hololens-field-1 {
+    line-height: 0px;
+}
+
+#hololens-field-2 {
+    line-height: 0px;
+}
+
+#hololens-field-3 {
+    line-height: 0px;
+}
+
+#hololens-field-4 {
+    line-height: 0px;
+}
+
+#work-order-field-1 {
+    line-height: 0px; 
+}
+
+#work-order-field-2 {
+    line-height: 0px; 
+}
+#work-order-field-3 {
+    line-height: 0px; 
+}
+

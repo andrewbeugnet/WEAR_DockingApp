@@ -1,0 +1,43 @@
+#loginButton {
+    background-color: #e25b2b;
+    color: white;
+    width: 100%;
+}
+
+#primary-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center !important;
+}
+  
+#login-box {
+    margin-left: 220px;
+    margin-right: 220px;
+    padding-bottom: 40px;
+    background-color: rgb(228, 228, 228);
+    border-color: rgb(196, 196, 196);
+}
+  
+#login-forms {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 18px;
+}
+  
+.App-logo {
+    height: 40vmin;
+}
+  
+.form-label {
+    color: black !important;
+    font-size: 24px !important;
+}
+
+h6 {
+    color: red;
+}
+
+#failedLoginAttempt {
+    margin-top: 15px;   
+}
