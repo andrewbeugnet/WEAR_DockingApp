@@ -4,7 +4,7 @@ import Sidebar from '../components/sidebar';
 import { Button, Form, Card, Table, ProgressBar } from 'react-bootstrap';
 import { tsPropertySignature } from "../../node_modules/@babel/types";
 
-let link = "https://192.168.1.133/"
+let link = "https://10.160.13.116/" //hard-coded to current Hololens IP address
 
 let steps = [
   'Make sure the Hololens is connected to the same network as this device.',
